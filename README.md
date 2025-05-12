@@ -34,6 +34,6 @@
 - 🌐 Portfolio: coming soon...
 - 📸 Instagram: [@f2o_om.09](https://www.instagram.com/f2o_om.09/)
 
----<br/> 
+---
 
 > ✨ "Build what you love, love what you build."  

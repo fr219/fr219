@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Fatema</h1>
 
 <p align="center">
-  A computer science - cloud computing student | Aspiring Web Developer
+  A computer science - cloud computing student | Aspiring full-stack Developer
 </p>
 
 ---

@@ -7,7 +7,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Currently studying Computer Science-cloud compuing 
+- 🎓 Currently studying Computer Science (cloud compuing) 
 - 🔭 I’m currently working towards becoming a **Web Developer** 
 - 🌱 I’m always learning and experimenting with new tech
 - 💬 I enjoy helping others and sharing my humble knowledge
@@ -38,8 +38,6 @@
 
 ### 📫 Let's Connect
 - 🌐 Portfolio: coming soon...
-- 📸 Instagram: [@f2o_om.09](https://www.instagram.com/f2o_om.09/)
-
 ---
 
 > ✨ "Build what you love, love what you build."  
